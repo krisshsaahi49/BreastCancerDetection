@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Breast Cancer Detection || Mammogram",
+  title: "Breast Cancer Detection",
   description: "Breast Cancer Mammmogram Detection using Random Forest Classification Model",
 };
 
